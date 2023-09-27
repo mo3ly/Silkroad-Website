@@ -51,7 +51,7 @@ This project was my first venture into open-source back in 2017 and is designed 
 3. Install PDO ODBC.
 4. Update the database connection settings in the configuration file.
 5. Run the setup script.
-6. 
+
 ### Gallery
 
 <img src="https://i.imgur.com/JD5ZEim.png" alt="Description for First Image" width="400">
