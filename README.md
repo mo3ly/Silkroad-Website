@@ -12,7 +12,7 @@
 - [Contribution](#contribution)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
-- 
+
 ## Introduction
 This project was my first venture into open-source and is designed to be a comprehensive web panel for Silkroad Online private servers. It is released on [ElitePvpers](https://www.elitepvpers.com/forum/sro-pserver-guides-releases/4242412-epic-release-new-website-alchemy-system.html). Although not yet fully complete, this web panel is packed with features to manage and enhance your Silkroad Online private server experience.
 
