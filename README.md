@@ -38,6 +38,17 @@ This project was my first venture into open-source and is designed to be a compr
 3. Install PDO ODBC.
 4. Update the database connection settings in the configuration file.
 5. Run the setup script.
+6. 
+### Gallery
+
+<img src="https://i.imgur.com/JD5ZEim.png" alt="Description for First Image" width="400">
+<img src="https://i.imgur.com/iT5NWpE.png" alt="Description for Second Image" width="400" >
+<img src="https://i.imgur.com/TiLDnlg.png" alt="Description for Third Image" width="400">
+<img src="https://i.imgur.com/hvt376v.png" alt="Description for Fourth Image" width="400">
+<img src="https://i.imgur.com/ywzkODA.png" alt="Description for Fifth Image" width="400" >
+<img src="https://i.imgur.com/wqYzOyj.png" alt="Description for Sixth Image" width="400">
+<img src="https://i.imgur.com/5kPkvih.png" alt="Description for Seventh Image" width="400">
+<img src="https://i.imgur.com/WAHmV38.png" alt="Description for Eighth Image" width="400">
 
 ## Contribution
 Since this project is far from complete and I am too lazy to finish it myself, contributions are more than welcome! Feel free to fork this repository, make your changes and then create a pull request.
