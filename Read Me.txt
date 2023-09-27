@@ -1,0 +1,26 @@
+This website coded by : mohamed aly
+fb : https://www.facebook.com/mohamed.exoria
+
+NOTE: You have to know that this website is not ready for use, and you have to fix somethings like:
+
+-Recovery system
+-Mailer
+-Timers
+-Checkout botton on Web Mall
+-Ranking
+-Admin panel
+-statistics
+-Forum
+
+->I don't remember if there is missing parts or no!
+
+I decided to release this website because i was only learning, and i hope it be useful for you.
+
+Iam not responsible for the template because i bought it once and
+you have to get License from nk company!
+
+link:- https://themeforest.net/item/godlike-the-game-template/17166433
+
+Some credits goes to KoKsPfLaNzE and Devsome
+
+Special thanks to B1QB0SS and Khaled tito

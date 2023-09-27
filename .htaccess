@@ -1,0 +1,3 @@
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([\w]+)/?([\w]+)?/?([\w]+)?/?([\w]+)? /index.php?main=$1&sup=$2&third=$3&forth=$4  [QSA]
